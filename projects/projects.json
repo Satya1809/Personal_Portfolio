@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Image Search Engine",
+    "desc": "An Image Search Engine Website using HTML, CSS, and JavaScript with API integration for real-time image search.",
+    "image": "pic1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Image_Search_Engine/",
+      "code": "https://github.com/Satya1809/Image_Search_Engine"
+    }
+  },
+  {
+    "name": "blog Website",
+    "desc": "Developed a full-stack blog website using Java for backend development and database integration.",
+    "image": "blog",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/Satya1809/Blog_Website"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Built a weather application using HTML, CSS, JavaScript, and API integration for real-time weather data.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Weather_App/",
+      "code": "https://github.com/Satya1809/Weather_App"
+    }
+  },
+  {
+    "name": "Text To Speech Converter",
+    "desc": "Developed a text-to-speech tool using HTML, CSS, and JavaScript with browser speech synthesis.",
+    "image": "textspeech",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/TextToSpeech_Converter/",
+      "code": "https://github.com/Satya1809/TextToSpeech_Converter"
+    }
+  },
+  {
+    "name": "Language Translator",
+    "desc": "Built a language translation tool using HTML, CSS, JavaScript, and translation API integration.",
+    "image": "language",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Language-Translator/",
+      "code": "https://github.com/Satya1809/Language-Translator"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "Developed a currency converter using HTML, CSS, JavaScript, and real-time exchange-rate API integration.",
+    "image": "currency",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Currency_Converter/",
+      "code": "https://github.com/Satya1809/Currency_Converter"
+    }
+  },
+  {
+    "name": "Analog Clock",
+    "desc": "Developed a real-time analog clock using HTML, CSS, and JavaScript.",
+    "image": "clock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Analog_Clock/",
+      "code": "https://github.com/Satya1809/Analog_Clock"
+    }
+  },
+  {
+    "name": "TicTac Toe",
+    "desc": "Built an interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript.",
+    "image": "tictac",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/TIC_TAC_TOE/",
+      "code": "https://github.com/Satya1809/TIC_TAC_TOE"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Developed a functional calculator using HTML, CSS, and JavaScript with basic arithmetic operations.",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Calculator/",
+      "code": "https://github.com/Satya1809/Calculator"
+    }
+  }
+  
+]

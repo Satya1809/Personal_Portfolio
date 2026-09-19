@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+     {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C Program",
+        "icon": "https://img.icons8.com/?size=48&id=40670&format=png&color=000000"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+     {
+        "name": "Troubleshooting",
+        "icon": "https://img.icons8.com/?size=65&id=bwttfEoCRyxX&format=png&color=000000"
+    },
+    {
+        "name": "Generative AI",
+        "icon": "https://img.icons8.com/?size=48&id=uHD3mOAgbbSx&format=png&color=000000"
+    },
+      {
+        "name": "ANN",
+        "icon": "https://img.icons8.com/?size=48&id=Q8TZgy8bDaSf&format=png&color=000000"
+    } ,
+      {
+        "name": "Generative AI",
+        "icon": "https://img.icons8.com/?size=48&id=qGm5NPoTt8SR&format=png&color=22C3E6"
+    } ,
+    {
+        "name": "ML",
+        "icon": "https://img.icons8.com/?size=48&id=66368&format=png&color=F25081"
+    } , 
+     {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=48&id=LLzFsOQb4Fzh&format=png&color=12B886"
+    } , 
+    {
+        "name": "Electronics",
+        "icon": "https://img.icons8.com/?size=48&id=1581&format=png&color=228BE6"
+    } , 
+    {
+        "name": "Debugging",
+        "icon": "https://img.icons8.com/?size=48&id=AorfZp3T6SgP&format=png&color=F25081"
+    } 
+]
+
+
+
+
+
